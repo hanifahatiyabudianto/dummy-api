@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DummyApiAutomationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DummyApiAutomationApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(DummyApiAutomationApplication.class, args);
+  }
 
 }
