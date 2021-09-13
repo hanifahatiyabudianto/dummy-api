@@ -12,3 +12,5 @@ We can run using two ways.
 
 open `http://localhost:<port>/swagger-ui/index.html` for api documentation
 
+Please refer to `http://localhost:1234/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/`
+
